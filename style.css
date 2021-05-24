@@ -1,0 +1,21 @@
+#Canvas {
+    border-style: ridge;
+    background-color: white;
+    border-width: 10px;
+}
+
+h1 {
+    color: red;
+    font-size: 40px; 
+}
+
+body {
+    background-image: url("background-image.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.Label {
+    color: blue;
+    font-weight: bold;
+}
